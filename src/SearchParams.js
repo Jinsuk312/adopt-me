@@ -11,7 +11,7 @@ const petfinder = pf({
 
 const SearchParams = () => {
   const [theme, setTheme] = useContext(ThemeContext);
-  const [location, updateLocation] = useState("Seattle, WA");
+  const [location, updateLocation] = useState("Chicago, IL");
   const [breeds, updateBreeds] = useState([]);
   const [pets, setPets] = useState([]);
   const [animal, AnimalDropdown] = useDropdown("Animal", "dog", ANIMALS);
