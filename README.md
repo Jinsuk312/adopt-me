@@ -1,3 +1,3 @@
 # adopt-me
 
-CSS from Brian Holt of Front End Masters - Complete Intro to React V5
+There is no registration function for this app - as there is no central system to submit applications for pet adoptions.
